@@ -11,7 +11,7 @@ Make sure to download all of these.
 
 3. Create a github account: https://github.com/join
 
-4. Git clone this repo: 
+4. Git clone this repo 
 
 5. Download NodeJS: https://nodejs.org/en/download/
 
